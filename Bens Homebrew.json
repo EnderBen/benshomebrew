@@ -414,7 +414,7 @@
 							"spells": [
 								"{@spell burning hands|XPHB}",
 								"{@spell cure wounds|XPHB}",
-								"{@spell magic missile|XPHB}",
+								"{@spell magic missile}",
 								"{@spell sleep}"
 							],
 							"slots": 4
