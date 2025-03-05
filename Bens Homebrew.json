@@ -2,9 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "BensHomebrew",
+				"json": "BensHomebrewHome",
 				"abbreviation": "BH",
-				"full": "Bens Homebrew",
+				"full": "Bens Homebrew Home",
 				"version": "1",
 				"authors": [
 					"Ben Nelson"
@@ -19,7 +19,7 @@
 	"monster": [
 		{
 			"name": "Skeletal Green Dragon",
-			"source": "BensHomebrew",
+			"source": "BensHomebrewHome",
 			"basicRules": true,
 			"size": [
 				"H"
@@ -344,7 +344,7 @@
 		},
 		{
 			"name": "Nib Addlespur",
-			"source": "BensHomebrew",
+			"source": "BensHomebrewHome",
 			"page": 2,
 			"level": 7,
 			"size": [
