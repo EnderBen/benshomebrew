@@ -407,13 +407,13 @@
 							"spells": [
 								"{@spell fire bolt}",
 								"{@spell light}",
-								"{@spell mage hand|XPHB}"
+								"{@spell mage hand|PHB}"
 							]
 						},
 						"1": {
 							"spells": [
-								"{@spell burning hands|XPHB}",
-								"{@spell cure wounds|XPHB}",
+								"{@spell burning hands|PHB}",
+								"{@spell cure wounds|PHB}",
 								"{@spell magic missile}",
 								"{@spell sleep}"
 							],
@@ -421,15 +421,15 @@
 						},
 						"2": {
 							"spells": [
-								"{@spell flaming sphere|XPHB}",
-								"{@spell invisibility|XPHB}"
+								"{@spell flaming sphere|PHB}",
+								"{@spell invisibility|PHB}"
 							],
 							"slots": 3
 						},
 						"3": {
 							"spells": [
-								"{@spell fireball|XPHB}",
-								"{@spell fly|XPHB}"
+								"{@spell fireball|PHB}",
+								"{@spell fly|PHB}"
 							],
 							"slots": 2
 						}
